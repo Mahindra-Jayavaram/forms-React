@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "username": "Mahindra",
+      "age": "21",
+      "email": "mahindrajayavaram@gmail.com",
+      "select": "HR",
+      "check1": "on",
+      "salary": "10000",
+      "address": "raninagar",
+      "id": 1
+    },
+    {
+      "username": "Nani",
+      "age": "21",
+      "email": "nani.com",
+      "select": "Finance",
+      "check1": "",
+      "salary": "10000",
+      "address": "anantapur",
+      "cheeck2": "on",
+      "id": 2
+    },
+    {
+      "username": "Renu",
+      "age": "21",
+      "email": "remu.com",
+      "select": "Marketing",
+      "check1": "Yes",
+      "salary": "100000",
+      "address": "Somandhepalle",
+      "id": 3
+    },
+    {
+      "username": "sarath",
+      "age": "21",
+      "email": "sarath.com",
+      "select": "Production",
+      "check": "Yes",
+      "salary": "560000",
+      "address": "puttaparthi",
+      "id": 4
+    },
+    {
+      "username": "Ali",
+      "age": "21",
+      "email": "ali@.com",
+      "select": "HR",
+      "check": "",
+      "salary": "10000",
+      "address": "ATP",
+      "id": 5
+    }
+  ]
+}
